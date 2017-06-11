@@ -1,0 +1,2 @@
+The approx value of pi for 890 points is: 3.101123595505618
+For 1300 iterations, the average value for pi is: 3.140912705272257 (st dev 0.04218736126829285)
